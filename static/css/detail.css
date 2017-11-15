@@ -1,0 +1,38 @@
+.question-info{
+    text-align: center;
+    margin-top:20px;
+}
+
+.comment-list{
+    padding-left: 5px;
+}
+
+.comment-list li{
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    padding-top: 10px;
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.user-info{
+    color: #9b9b9b;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.user-info.username{
+    margin-left: 20px;
+}
+
+.user-info.create_time{
+    float: right;
+}
+
+.comment-content{
+    margin-left: 45px;
+}
