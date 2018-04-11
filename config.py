@@ -10,7 +10,7 @@ HOSTNAME = '127.0.0.1'
 PORT = '3306'
 DATABASE = 'ccwindow'
 USERNAME = 'root'
-PASSWORD = 'khalil666'
+PASSWORD = ''
 DB_URI = "{}+{}://{}:{}@{}:{}/{}?charset=utf8".format(
     DIALECT, DRIVER, USERNAME, PASSWORD, HOSTNAME, PORT, DATABASE)
 
